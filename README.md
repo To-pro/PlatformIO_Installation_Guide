@@ -7,9 +7,11 @@
 ![1](https://user-images.githubusercontent.com/96014379/160340055-64dd95fc-2cb9-49b0-a621-4199330ad9a6.png)
 
 記得其他內的選項全部都要打勾
+
 ![2](https://user-images.githubusercontent.com/96014379/160340739-af78be16-45ce-4656-8c2e-e1d5a4fa2a9e.png)
 
 安裝畫面
+
 ![3](https://user-images.githubusercontent.com/96014379/160340811-0e8113e9-64ff-462f-afeb-91c64376a010.png)
 
 ### Step 2. 第一次啟動時，可能會推薦安裝中文語言包；或進入延伸模組，搜尋 chinese 手動安裝繁體中文語言包。
@@ -79,22 +81,27 @@ ESP8266:Board 選Espressif Generic ESP8266 ESP-001 1M
 參考用，裝了能提高你的工作效率
 1. Code Spell Checker
 功能：檢查拼字有無錯誤
+
 ![61](https://user-images.githubusercontent.com/96014379/160343432-2ca307e0-c172-40fd-b22f-0b71775303df.png)
 
 2. TabOut
 功能：如果喜歡用tab跳離括號的人可以使用
+
 ![62](https://user-images.githubusercontent.com/96014379/160343483-4468d980-0bcc-4df3-90c1-130c0fef5e9b.png)
 
 3. Material Icon Theme
 功能：檔案總管各種檔案有各自圖示
+
 ![63](https://user-images.githubusercontent.com/96014379/160343623-af788803-87ad-4583-a94c-062d0e36538f.png)
 
 4. Doxygen Documentation Generator
 功能：輔助程式註解
+
 ![64](https://user-images.githubusercontent.com/96014379/160343860-285ea54e-8a5c-4754-81af-9fb3970ba898.png)
 
 5. Power Mode
 功能：打字可以有特效(但要改json檔，要用自己學 by 志嘉)
+
 ![65](https://user-images.githubusercontent.com/96014379/160343983-e46cd910-f768-4291-ad14-985d31ee8d93.png)
 
 6. background
