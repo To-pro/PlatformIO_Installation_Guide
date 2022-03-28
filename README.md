@@ -72,3 +72,31 @@ ESP8266:Board 選Espressif Generic ESP8266 ESP-001 1M
 
 ### Step 3. 按下 finish 建構專案，重新啟動VSC後建專案可能會花比較多時間 3~10 min都有可能。
 
+## 五、編輯介面說明
+
+
+## 六、VS Code 模組推薦
+參考用，裝了能提高你的工作效率
+1. Code Spell Checker
+功能：檢查拼字有無錯誤
+![61](https://user-images.githubusercontent.com/96014379/160343432-2ca307e0-c172-40fd-b22f-0b71775303df.png)
+
+2. TabOut
+功能：如果喜歡用tab跳離括號的人可以使用
+![62](https://user-images.githubusercontent.com/96014379/160343483-4468d980-0bcc-4df3-90c1-130c0fef5e9b.png)
+
+3. Material Icon Theme
+功能：檔案總管各種檔案有各自圖示
+![63](https://user-images.githubusercontent.com/96014379/160343623-af788803-87ad-4583-a94c-062d0e36538f.png)
+
+4. Doxygen Documentation Generator
+功能：輔助程式註解
+![64](https://user-images.githubusercontent.com/96014379/160343860-285ea54e-8a5c-4754-81af-9fb3970ba898.png)
+
+5. Power Mode
+功能：打字可以有特效(但要改json檔，要用自己學 by 志嘉)
+![65](https://user-images.githubusercontent.com/96014379/160343983-e46cd910-f768-4291-ad14-985d31ee8d93.png)
+
+6. background
+功能：可以有賽高的工作環境 by 志嘉
+參考json程式碼 (我就幫到這了)
